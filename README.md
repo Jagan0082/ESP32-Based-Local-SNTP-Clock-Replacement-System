@@ -1,4 +1,4 @@
-# ⏱ ESP32-Based Local SNTP Clock Replacement System
+# ⏱ ESP32-Based Local SNTP Clock Replacement System V_1.0
 
 ## 📌 Overview
 
