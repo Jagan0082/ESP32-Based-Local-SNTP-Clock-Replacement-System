@@ -1,0 +1,2 @@
+source C:/ESP_IDF/esp32_eth_n_wifi/SNDP_server01/build/gdbinit/symbols
+source C:/ESP_IDF/esp32_eth_n_wifi/SNDP_server01/build/gdbinit/connect
